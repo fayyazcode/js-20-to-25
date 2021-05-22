@@ -26,3 +26,19 @@
 // document.write("<h3>" + "String: " + string + "<h3>")
 // document.write("<h3>" + "Index of 'l': " + string.indexOf("l",5) + "<h3/>")
 
+//*****************extra***********
+// var name="fayyaz alam jan alam"
+
+// var remove=prompt("enter what u want to remove")
+// var add=prompt("What u wnat to add")
+
+// var index=name.indexOf(remove);
+
+// if(index !== -1){
+//     console.log(index)
+//     name =name.slice(0,index) + add + name.slice(index + remove.length)
+//     console.log(name)
+// }
+// else{
+//     alert("name not found")
+// }
