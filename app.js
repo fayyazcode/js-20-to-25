@@ -107,3 +107,45 @@
 
 // document.write("<div>","User input: "+user+"</div>");
 // document.write("<div>","Title Case: "+user1+"</div>");
+// num = "35.36"
+// res =num.replace(".", "")
+// document.write("<h2>Number =" +num+ "<br/>Results = "+ res);
+
+//                                     Question 14
+
+// var bakery = ["cake", "apple pie", "cookie", "chips", "patties"]
+// input = prompt("What do you want from bakery")
+// index = bakery.indexOf(input.toLowerCase())
+// for (var i = 0; i < bakery.length; i++) {
+//     if (input.toLowerCase() === bakery[i])
+//     {
+//     alert("Yes it is Available at index no. "+ index)}
+//     else if(input.toLowerCase() !== bakery[i]){
+//         alert("Not Available")
+//     }
+//     break;
+// }
+ //                                   Question 16
+
+//  var name = "University of Karachi";
+
+// for(var i = 0; i < name.length; i++){
+//     console.log(name.slice(i, i+1))
+// }
+ //                                   Question 17
+
+// contry = "pakistan"
+// index = contry.slice(7,8)
+
+// document.write("<h2>User Input: "+contry+ "<br/> Last charachter of input: "+index)
+
+ //                                   Question 18
+
+//  mess = "“the quick brown fox jumps over the lazy dog”."
+
+//  for (var i = 0; i < mess.length; i++) {
+//     if (mess === "the"){
+
+//     }
+     
+//  }
